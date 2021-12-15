@@ -1,10 +1,6 @@
 # Snow-Typecho-Plugin
 简单的，有丰富自定义项的 typecho 页面下雪插件
 
-[Demo](https://imjad.cn/archives/code/sounds-winter-and-snowflakes-are-more-compatible)
-
-![Snow-Plugin.gif](https://img.imjad.cn/images/2017/12/20/Snow-Plugin.gif)
-
 ## 介绍
 1. 让页面开始下雪吧
 2. 较低的 CPU 消耗，移动端效果良好
